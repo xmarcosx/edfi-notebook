@@ -1,0 +1,7 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+        "./src"
+    ]
+}

@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+pandas
+pyarrow
+oauthlib
+requests
+requests_oauthlib
