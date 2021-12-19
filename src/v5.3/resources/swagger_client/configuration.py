@@ -41,7 +41,7 @@ class Configuration(object):
             return
 
         # Default Base url
-        self.host = os.environ.get('EDFI_BASE_URL') + '/data/v3/2021'
+        self.host = os.environ.get('EDFI_BASE_URL') + '/data/v3'
         # Temp file folder for downloading files
         self.temp_folder_path = None
 
