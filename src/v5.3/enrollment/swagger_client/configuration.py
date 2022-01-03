@@ -41,7 +41,7 @@ class Configuration(object):
             return
 
         # Default Base url
-        self.host = os.environ.get('EDFI_BASE_URL') + '/composites/v1/'
+        self.host = os.environ.get('EDFI_BASE_URL') + '/composites/v1/2022'
         # Temp file folder for downloading files
         self.temp_folder_path = None
 
